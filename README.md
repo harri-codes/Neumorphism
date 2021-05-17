@@ -1,4 +1,4 @@
-# Neuphrmism
+# Neumorphism
 Simple neuphormism css trick.
 ```
 body{
