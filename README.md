@@ -1,7 +1,7 @@
 # Neumorphism
 Simple neuphormism css trick.
 
-(https://raw.githubusercontent.com/harri-codes/Neumorphism/master/img/scrn.png)
+![harricodes](https://raw.githubusercontent.com/harri-codes/Neumorphism/master/img/scrn.png)
 ```
 body{
     align-items: center;
